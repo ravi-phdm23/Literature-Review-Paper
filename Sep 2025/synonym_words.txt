@@ -1,0 +1,12 @@
+cyber security,cybersecurity
+machine-learning,machine learning
+learning systems,learning algorithms
+decision making,decision trees
+decision making,decision support systems
+risk assessment,risk management
+classification (of information),classification
+fraud detection,crime
+fraud detection,fraud
+neural networks,deep learning
+neural networks,artificial neural network
+humans,human
